@@ -1,0 +1,22 @@
+body {
+    /* text-align: center; */
+    background-image: url("https://lh3.googleusercontent.com/bSoQB0utm3E0TrsKaa3u3tqtUvjZLAiWHbxu0k7J9EvKTuMvNEyexFfpZl_RwkBKFA");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: fixed;
+    background-attachment: fixed;
+    font-family: 'Arial Narrow Bold', sans-serif;
+}
+h1{
+    text-align: center;
+    color: #ffffff;
+    font-size: 40px;
+}
+.question{
+    border-color: cornsilk;
+    color: lemonchiffon;
+}
+button , div{
+    margin-top: 20px;
+    margin-left: 5px;
+}
